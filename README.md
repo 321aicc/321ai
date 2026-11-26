@@ -441,8 +441,6 @@ If it speaks OpenAI or Anthropic, it probably already works.
 | **[321ai.cc](https://321ai.cc)** | The marketplace and API gateway in this repository. Compare merchants, pin a route, ship. |
 | **[AgentAPI.ai](https://agentapiai.com)** | Independent, neutral AI API reviews and model benchmarking. |
 | **[DocAI.cc](https://docai.cc)** | Document AI, extraction and knowledge workflows. |
-| **[APITokenRouter.com](https://apitokenrouter.com)** | Token routing and API access for builders. |
-| **[Aimyria.com](https://aimyria.com)** | Infrastructure and operations behind the network. |
 
 ### The 321AI promise
 

@@ -437,8 +437,6 @@ export OPENAI_API_KEY="sk-..."
 | **[321ai.cc](https://321ai.cc)** | 本仓库对应的市场和 API 网关。比价、固定商家、发货。 |
 | **[AgentAPI.ai](https://agentapiai.com)** | 独立、中立运营的 AI API 评测和模型基准。 |
 | **[DocAI.cc](https://docai.cc)** | 文档 AI、抽取和知识工作流。 |
-| **[APITokenRouter.com](https://apitokenrouter.com)** | 面向开发者的 Token 路由和 API 接入。 |
-| **[Aimyria.com](https://aimyria.com)** | 网络背后的基础设施与运营。 |
 
 ### 321AI 的执念
 
