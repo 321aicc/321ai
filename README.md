@@ -430,6 +430,27 @@ If it speaks OpenAI or Anthropic, it probably already works.
 
 ---
 
+## Explore 321AI
+
+Deep links into the parts of the site that answer the questions people actually ask:
+
+| Page | What you get |
+|---|---|
+| [Live marketplace](https://321ai.cc/#/market) | Every supplier quote per model, with success rate, latency and cache-hit signals |
+| [Model catalog](https://321ai.cc/models/) | All models on sale with the current market floor price |
+| [AI API price report, November 2026](https://321ai.cc/report/ai-api-price-202611) | Original data: price spread, supplier coverage and per-request model stats |
+| [Claude API prices 2026](https://321ai.cc/blog/claude-api-price-2026) | Claude family live quotes plus Claude Code cost math |
+| [GPT-6.2 API prices](https://321ai.cc/blog/gpt-6-2-api-price-2026) | Astra / Sol live quotes |
+| [Gemini 4 API prices](https://321ai.cc/blog/gemini-4-api-price-2026) | Neon / Argon / Carbon / Hydrogen live quotes |
+| [DeepSeek API prices](https://321ai.cc/blog/deepseek-api-price-2026) | V4.1 Flash / V4 Pro live quotes and cache economics |
+| [Claude Code cost guide](https://321ai.cc/blog/claude-code-cost-2026) | Why long context and cache-read price decide the bill |
+| [OpenRouter alternative](https://321ai.cc/blog/openrouter-alternative-2026) | Multi-supplier bidding vs a single aggregator |
+| [How 321AI works](https://321ai.cc/trust) | Marketplace mechanics, public prices, failures never billed |
+| [FAQ](https://321ai.cc/faq) | Pricing, protocols, billing and privacy |
+| [Public price API](https://321ai.cc/api/public/model-prices) | Machine-readable prices, no auth, CORS open |
+
+---
+
 <a id="ecosystem"></a>
 
 ## Ecosystem
